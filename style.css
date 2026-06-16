@@ -1,1 +1,38 @@
- 
+ /*
+ selector {
+
+ }
+
+ .class {
+
+ }
+
+ #id {
+
+ }
+ */
+ * {
+    margin:0;
+    padding:0;
+ }
+body {
+    background-color: black;
+}
+
+form {
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 40px;
+    background-color: rgba (0, 0, 0, 50);
+ }
+
+ form h1 {
+    color : #d3d3d3;
+    font-weight: bold;
+    font-size: 40px;
+ }
+
+ form input {
+   background-color: #d3d3d3;
+   border: 1px solid #000;
+ }
