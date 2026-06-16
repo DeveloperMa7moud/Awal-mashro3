@@ -27,6 +27,7 @@ form {
     border: 2px solid white;
     border-radius: 40px;
     background-color: rgba (0, 0, 0, 50);
+    justify-self: center;
  }
 
  form h1 {
@@ -38,4 +39,5 @@ form {
  form input {
    background-color: #d3d3d3;
    border: 1px solid #000;
+   border-radius: 20px;
  }
