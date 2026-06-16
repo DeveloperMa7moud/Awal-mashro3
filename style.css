@@ -24,7 +24,7 @@ body {
 form {
     display: flex;
     flex-direction: column;
-    width: 40%;
+    width: 30%;
     padding: 20px;
     border: 2px solid white;
     border-radius: 40px;
@@ -49,6 +49,7 @@ form {
  label {
    display: flex;
    flex-direction: row;
+   color: #d3d3d3;
  }
 
  div {
