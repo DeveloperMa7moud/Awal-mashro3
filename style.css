@@ -50,3 +50,7 @@ form {
    display: flex;
    flex-direction: row;
  }
+
+ div {
+   display: flex;
+ }
